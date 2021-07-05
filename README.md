@@ -1,2 +1,3 @@
-# pomodor-timer
-A Pomodoro timer!
+# Pomodoro Timer
+
+Here is my implementation of a Pomodoro Timer, using vanilla Javascript!
